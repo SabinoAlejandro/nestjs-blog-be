@@ -1,1 +1,1 @@
-GET http://localhost:3000/users/12333
+GET http://localhost:3000/users/123?limit=102&page=32
